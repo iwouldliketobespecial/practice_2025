@@ -1,1 +1,6 @@
-echo "// Новый комментарий" >> Labs / lab1.cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World from lab1!" << std::endl;
+    return 0;
+}
